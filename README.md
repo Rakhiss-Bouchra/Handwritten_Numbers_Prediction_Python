@@ -12,4 +12,5 @@ The goal of the project is to train a model on the training data and evaluate it
 - tkinter: tkinter is a standard GUI (Graphical User Interface) library for Python that provides a set of widgets and tools for creating desktop applications.
 - PIL (Python Imaging Library): PIL is a library for image processing in Python. It provides functions for loading, manipulating, and saving images in various formats. It is useful for tasks such as image resizing, cropping, and converting between image formats.
 
-## Accuracy: 0.9836000204086304
+## Accuracy: 
+0.9836000204086304
